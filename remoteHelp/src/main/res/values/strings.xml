@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">hyperFIELD Remote Help</string>
+    <string name="network_quality">Network connection is unstable.</string>
+    <string name="reconnecting">The session is reconnecting</string>
+    <string name="reconnected">The session reconnected</string>
+    <string name="audio_enabled">Audio enabled</string>
+    <string name="audio_disabled">Audio disabled</string>
+    <string name="permissions_denied_title">Permissions Denied</string>
+    <string name="permissions_denied">Cannot use this app without requested permission. Please, grant audio and video permissions</string>
+    <string name="alert_permissions_denied">Without these permissions the app is unable to make call.Are you sure you want to deny these permissions?</string>
+    <string name="screen_sharing_text">Your are sharing your screen</string>
+    <string name="app">ToyVPN</string>
+<string name="address">Server Address:</string>
+<string name="port">Server Port:</string>
+<string name="secret">Shared Secret:</string>
+<string name="connect">Connect!</string>
+<string name="disconnect">Disconnect!</string>
+<string name="proxyhost">HTTP proxy hostname</string>
+<string name="proxyport">HTTP proxy port</string>
+<string name="packages">Packages (comma separated):</string>
+<string name="allowed">Allow</string>
+<string name="disallowed">Disallow</string>
+<string name="connecting">ToyVPN is connecting...</string>
+<string name="connected">ToyVPN is connected!</string>
+<string name="disconnected">ToyVPN is disconnected!</string>
+<string name="incomplete_proxy_settings">
+        Incomplete proxy settings. For HTTP proxy we require both hostname and port settings.
+    </string>
+<string name="unknown_package_names">
+        Some of the specified package names do not correspond to any installed packages.
+    </string>
+
+
+</resources>
